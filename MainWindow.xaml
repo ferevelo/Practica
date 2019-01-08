@@ -9,7 +9,9 @@
     <Grid>
         <Label Content="ingrese" HorizontalAlignment="Left" Height="34" Margin="173,72,0,0" VerticalAlignment="Top" Width="373"/>
         <TextBox HorizontalAlignment="Left" Height="34" Margin="254,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" TextChanged="TextBox_TextChanged"/>
-        <Button Content="Button" HorizontalAlignment="Left" Height="30" Margin="353,147,0,0" VerticalAlignment="Top" Width="109" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="30" Margin="341,200,0,0" VerticalAlignment="Top" Width="109" Click="Button_Click"/>
+        <Label x:Name="edad" Content="Label" HorizontalAlignment="Left" Height="21" Margin="173,144,0,0" VerticalAlignment="Top" Width="48"/>
+        <TextBox HorizontalAlignment="Left" Height="51" Margin="254,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208" TextChanged="TextBox_TextChanged_1"/>
 
     </Grid>
 </Window>
