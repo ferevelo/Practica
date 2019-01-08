@@ -12,6 +12,7 @@
         <Button Content="Button" HorizontalAlignment="Left" Height="30" Margin="341,200,0,0" VerticalAlignment="Top" Width="109" Click="Button_Click"/>
         <Label x:Name="edad" Content="Label" HorizontalAlignment="Left" Height="21" Margin="173,144,0,0" VerticalAlignment="Top" Width="48"/>
         <TextBox HorizontalAlignment="Left" Height="51" Margin="254,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208" TextChanged="TextBox_TextChanged_1"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="37" Margin="341,235,0,0" VerticalAlignment="Top" Width="109"/>
 
     </Grid>
 </Window>
